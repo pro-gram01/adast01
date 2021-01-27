@@ -8,7 +8,7 @@ h1 {
     font-size: 20px;
     position: relative;
     top: 25px;
-
+    width: 50vw;
 }
 
 .HARE {
@@ -17,6 +17,7 @@ h1 {
     position: relative;
     bottom: 650px;
     left: 650px;
+    width: 50vw;
 
 }
 
